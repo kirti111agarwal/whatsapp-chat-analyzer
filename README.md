@@ -35,10 +35,14 @@ streamlit run app.py
    - Tap the **three dots (⋮) → More → Export Chat**.  
    - Choose **Without Media** to get a `.txt` file.  
    - Save the exported file to your device.
-   - 
+
+<p float="left">
+  <img src="screenshots/whatsapp1.jpeg" width="200" style="margin-right:10px;" />
+  <img src="screenshots/whatsapp2.jpeg" width="200" />
+</p>
 
 2. Open the app in your browser (Streamlit will provide the local URL).  
-3. Upload your `.txt` chat file through the app interface.  
+3. Upload your `.txt` chat file through the app interface.
 
 Now you can explore your WhatsApp chat data with interactive visualizations and insights! 🎉
 
@@ -58,7 +62,7 @@ whatsapp_chat_example.txt: Sample chat file for testing. (my personal whatsapp c
 ## 😄 Running App Screenshots 
 
 ![App Preview](screenshots/step1.png)
-![App Preview](screenshots/step1.png)
+![App Preview](screenshots/step2.png)
 
 
 ## 📌 Notes
